@@ -48,7 +48,7 @@ text-align: center
     visibility: hidden
 }
 
-.viewerBadge_link__1S137 {
+.viewerBadge_container__1QSob {
     visibility: hidden
 }
 </style>
