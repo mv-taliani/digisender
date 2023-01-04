@@ -47,6 +47,10 @@ text-align: center
 .css-12pn0kf.e16nr0p32{
     visibility: hidden
 }
+
+.viewerBadge_link__1S137 {
+    visibility: hidden
+}
 </style>
 ''', unsafe_allow_html=True)
 
