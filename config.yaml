@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    suelen:
+      email: suelen@gmail.com
+      name: Suelen
+      password: '$2b$12$Jn9pQGNwdm1CiBArWwb2b.egRLX7lnHKfN3EwhYB4NmJoNvwCE14K' # To be replaced with hashed password
+    Belo:
+      email: belo@gmail.com
+      name: Belo
+      password: '$2b$12$iispqkOiQO5bsgWxgC/U.edf0ADeAzyglYhY8RVuPAW50UsaQkYRm' # To be replaced with hashed password
+cookie:
+  expiry_days: 0
+  key: chave
+  name: sessão
+preauthorized:
+  emails:
+  - mv.taliani@gmail.com
